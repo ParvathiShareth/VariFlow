@@ -349,6 +349,6 @@ Released under the [MIT License](LICENSE).
 
 ## 🙋 Contact
 
-**Parvathi Shareth** · 📧 `your@email.com` · 🐙 [@ParvathiShareth](https://github.com/ParvathiShareth)
+**Parvathi Shareth** · 📧 `parvathishareth19@gmail.com` · 🐙 [@ParvathiShareth](https://github.com/ParvathiShareth)
 
 Issues and suggestions are welcome via GitHub Issues.
