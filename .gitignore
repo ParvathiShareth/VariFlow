@@ -1,0 +1,45 @@
+# Snakemake
+.snakemake/
+.conda/
+
+# local config (commit config/config.example.yaml instead)
+config/config.yaml
+
+# Windows / editor junk
+*:Zone.Identifier
+*Zone.Identifier*
+Thumbs.db
+.DS_Store
+.vscode/
+__pycache__/
+
+# data and large outputs
+*.sra
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.vcf
+*.vcf.gz
+*.tbi
+*.g.vcf.gz
+*.fna
+*.fa
+*.fasta
+*.fai
+*.dict
+*.intervals
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+logs/
+data/
+outputs/
+genomicsdb/
+tmp/
+dag.png

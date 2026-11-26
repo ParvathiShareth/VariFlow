@@ -1,0 +1,14 @@
+# Copy to config/config.yaml and edit. config/config.yaml is git-ignored.
+
+# Reference genome FASTA. The .fai, .dict, BWA index and .intervals files are created next to it.
+reference: "/path/to/reference/genome.fna"
+
+# Directory where all downloads, intermediate files and results are written
+data_dir: "/path/to/data_dir"
+
+# SRA run accessions, split by library layout
+se_samples: []
+#  - SRRXXXXXXXX
+pe_samples: []
+#  - SRRXXXXXXXX
+
